@@ -7,7 +7,10 @@ Buscando mi mejor versión en este nuevo desafío.
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ferreirasegundo&show_icons=true&theme=radical)
 
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ferreirasegundo&theme=react-dark)](https://github.com/TU_USUARIO)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ferreirasegundo&theme=react-dark)](https://github.com/ferreirasegundo)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/[ferreirasegundo](https://www.linkedin.com/in/segundo-ferreira-794647110/)/)
+
 
 
 
