@@ -9,7 +9,7 @@ Buscando mi mejor versión en este nuevo desafío.
 
 [![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ferreirasegundo&theme=react-dark)](https://github.com/ferreirasegundo)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/[ferreirasegundo](https://www.linkedin.com/in/segundo-ferreira-794647110/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/segundo-ferreira-794647110/)
 
 
 
